@@ -12,7 +12,6 @@ I bridge the gap between **logic and creativity**, building decentralized system
 ---
 
 ### 🛠️ Tech Stack & Tools
-
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,6 +25,7 @@ I bridge the gap between **logic and creativity**, building decentralized system
 **Tools & Design:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
 ### 🚀 Projects & Contributions
@@ -33,6 +33,7 @@ I bridge the gap between **logic and creativity**, building decentralized system
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **Tourist Safety System (SIH)** | Decentralized app for verifying guides and ensuring tourist safety. | Blockchain, Solidity |
+
 
 🏆 **Open Source Highlight:**
 > Recently had a **Pull Request (PR) merged in Gumroad!** > Also contributing to **BLT** and **Keploy**.
