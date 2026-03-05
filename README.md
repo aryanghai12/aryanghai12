@@ -6,7 +6,7 @@ I am a third-year **B.Tech (CSE)** student at **Noida Institute of Engineering a
 
 I bridge the gap between **logic and creativity**, building decentralized systems by day and creating digital art by night.  
 
-- 🔭 Currently working on **Low Latency Limit Order Book**  
+- 🔭 Currently working on **RepoCop**  
 - 🤝 Contributing to **Gumroad, BLT, and other organisations**  
 - 🎨 Recognized **Digital Artist** & Web3 Freelancer  
 - ⚡ Fun fact: I can debug a Smart Contract and design a Pixel Art NFT in the same hour  
