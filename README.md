@@ -26,12 +26,12 @@ security tooling.
 ┌─ aryanghai12@github ──────────────────────────────────────────┐
 │                                                               │
 │   active           3 years, since August 2023                 │
-│   repositories     27 public  ·  10 authored  ·  17 forks     │
-│   commits          259                                        │
-│   pull requests    55 opened  ·  30 merged                    │
-│   upstream         22 merged across 6 external repositories   │
-│   lines shipped    +32,822  /  -1,363  across 397 files       │
-│   issues           20 filed                                   │
+│   repositories     28 public  ·  11 authored  ·  17 forks     │
+│   commits          269                                        │
+│   pull requests    56 opened  ·  33 merged                    │
+│   upstream         25 merged across 7 external repositories   │
+│   lines shipped    +34,597  /  -1,947  across 725 files       │
+│   issues           21 filed                                   │
 │   languages        TypeScript 83%  ·  Go 5%  ·  Python 4%     │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
@@ -85,11 +85,12 @@ Merged and shipped in repositories I do not own, where the standards are not min
 <!--START:upstream-->
 | Where | Repository | Merged | Lines |
 | :-- | :-- | --: | :-- |
-| **Kubescape · CNCF incubating · Kubernetes security** | [`kubescape`](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+author%3Aaryanghai12) | 13 | `+6,216` `-82` |
+| **Kubescape · CNCF incubating · Kubernetes security** | [`kubescape`](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+author%3Aaryanghai12) | 15 | `+7,987` `-662` |
 |  | [`node-agent`](https://github.com/kubescape/node-agent/pulls?q=is%3Apr+author%3Aaryanghai12) | 3 | `+1,252` `-78` |
 |  | [`regolibrary`](https://github.com/kubescape/regolibrary/pulls?q=is%3Apr+author%3Aaryanghai12) | 1 | `+1,317` `-1` |
 | **OWASP · Open Worldwide Application Security Project** | [`Nest`](https://github.com/OWASP/Nest/pulls?q=is%3Apr+author%3Aaryanghai12) | 2 | `+182` `-16` |
 | **Smart India Hackathon · team project** | [`TouristSafety`](https://github.com/Vanshikadahaliya/TouristSafety/pulls?q=is%3Apr+author%3Aaryanghai12) | 2 | `+13,884` `-388` |
+| **OpenYurt · CNCF edge Kubernetes** | [`openyurt`](https://github.com/openyurtio/openyurt/pulls?q=is%3Apr+author%3Aaryanghai12) | 1 | `+4` `-4` |
 | **Antiwork · Gumroad** | [`gumroad`](https://github.com/antiwork/gumroad/pulls?q=is%3Apr+author%3Aaryanghai12) | 1 | `+18` `-14` |
 <!--END:upstream-->
 
@@ -148,6 +149,6 @@ Windows `securityContext` compliance rules to **regolibrary**.
 
 <br><br>
 
-<sub><!--STAMP-->last synced 18 Aug 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
+<sub><!--STAMP-->last synced 19 Aug 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
 
 </div>
