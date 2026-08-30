@@ -31,7 +31,7 @@ security tooling.
 │   pull requests    59 opened  ·  35 merged                    │
 │   upstream         26 merged across 7 external repositories   │
 │   lines shipped    +37,926  /  -3,473  across 766 files       │
-│   issues           22 filed                                   │
+│   issues           19 filed                                   │
 │   languages        TypeScript 84%  ·  Go 5%  ·  Python 4%     │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
@@ -149,6 +149,6 @@ Windows `securityContext` compliance rules to **regolibrary**.
 
 <br><br>
 
-<sub><!--STAMP-->last synced 29 Aug 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
+<sub><!--STAMP-->last synced 30 Aug 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
 
 </div>
