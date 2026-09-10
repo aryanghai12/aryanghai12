@@ -25,7 +25,7 @@ security tooling.
 ```text
 ┌─ aryanghai12@github ──────────────────────────────────────────┐
 │                                                               │
-│   active           3 years, since August 2023                 │
+│   active           3 years, 1 month, since August 2023        │
 │   repositories     28 public  ·  11 authored  ·  17 forks     │
 │   commits          279                                        │
 │   pull requests    60 opened  ·  36 merged                    │
@@ -149,6 +149,6 @@ Windows `securityContext` compliance rules to **regolibrary**.
 
 <br><br>
 
-<sub><!--STAMP-->last synced 09 Sep 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
+<sub><!--STAMP-->last synced 10 Sep 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
 
 </div>
