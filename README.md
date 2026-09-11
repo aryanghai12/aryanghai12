@@ -23,18 +23,18 @@ security tooling.
 
 <!--START:stats-->
 ```text
-┌─ aryanghai12@github ──────────────────────────────────────────┐
-│                                                               │
-│   active           3 years, 1 month, since August 2023        │
-│   repositories     28 public  ·  11 authored  ·  17 forks     │
-│   commits          279                                        │
-│   pull requests    60 opened  ·  36 merged                    │
-│   upstream         27 merged across 7 external repositories   │
-│   lines shipped    +38,380  /  -3,473  across 767 files       │
-│   issues           19 filed                                   │
-│   languages        TypeScript 84%  ·  Go 5%  ·  Python 4%     │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
+┌─ aryanghai12@github ────────────────────────────────────────────┐
+│                                                                 │
+│   active           3 years, 1 month, since August 2023          │
+│   repositories     28 public  ·  11 authored  ·  17 forks       │
+│   commits          288                                          │
+│   pull requests    60 opened  ·  37 merged                      │
+│   upstream         27 merged across 7 external repositories     │
+│   lines shipped    +42,321  /  -4,607  across 789 files         │
+│   issues           19 filed                                     │
+│   languages        TypeScript 83%  ·  Go 5%  ·  JavaScript 5%   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 <!--END:stats-->
 
@@ -149,6 +149,6 @@ Windows `securityContext` compliance rules to **regolibrary**.
 
 <br><br>
 
-<sub><!--STAMP-->last synced 10 Sep 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
+<sub><!--STAMP-->last synced 11 Sep 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
 
 </div>
