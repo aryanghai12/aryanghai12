@@ -30,7 +30,7 @@ security tooling.
 │   commits          321                                          │
 │   pull requests    61 opened  ·  37 merged                      │
 │   upstream         27 merged across 7 external repositories     │
-│   lines shipped    +42,269  /  -4,606  across 786 files         │
+│   lines shipped    +42,321  /  -4,607  across 789 files         │
 │   issues           19 filed                                     │
 │   languages        TypeScript 57%  ·  Python 20%  ·  Rust 14%   │
 │                                                                 │
@@ -88,7 +88,7 @@ Merged and shipped in repositories I do not own, where the standards are not min
 | **Kubescape · CNCF incubating · Kubernetes security** | [`kubescape`](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+author%3Aaryanghai12) | 17 | `+8,878` `-696` |
 |  | [`node-agent`](https://github.com/kubescape/node-agent/pulls?q=is%3Apr+author%3Aaryanghai12) | 3 | `+1,252` `-78` |
 |  | [`regolibrary`](https://github.com/kubescape/regolibrary/pulls?q=is%3Apr+author%3Aaryanghai12) | 1 | `+1,317` `-1` |
-| **OWASP · Open Worldwide Application Security Project** | [`Nest`](https://github.com/OWASP/Nest/pulls?q=is%3Apr+author%3Aaryanghai12) | 2 | `+130` `-15` |
+| **OWASP · Open Worldwide Application Security Project** | [`Nest`](https://github.com/OWASP/Nest/pulls?q=is%3Apr+author%3Aaryanghai12) | 2 | `+182` `-16` |
 | **Smart India Hackathon · team project** | [`TouristSafety`](https://github.com/Vanshikadahaliya/TouristSafety/pulls?q=is%3Apr+author%3Aaryanghai12) | 2 | `+13,884` `-388` |
 | **OpenYurt · CNCF edge Kubernetes** | [`openyurt`](https://github.com/openyurtio/openyurt/pulls?q=is%3Apr+author%3Aaryanghai12) | 1 | `+4` `-4` |
 | **Antiwork · Gumroad** | [`gumroad`](https://github.com/antiwork/gumroad/pulls?q=is%3Apr+author%3Aaryanghai12) | 1 | `+18` `-14` |
@@ -149,6 +149,6 @@ Windows `securityContext` compliance rules to **regolibrary**.
 
 <br><br>
 
-<sub><!--STAMP-->last synced 24 Sep 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
+<sub><!--STAMP-->last synced 25 Sep 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
 
 </div>
