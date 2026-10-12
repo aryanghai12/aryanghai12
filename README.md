@@ -27,12 +27,12 @@ security tooling.
 │                                                                 │
 │   active           3 years, 2 months, since August 2023         │
 │   repositories     32 public  ·  12 authored  ·  20 forks       │
-│   commits          370                                          │
-│   pull requests    62 opened  ·  38 merged                      │
+│   commits          374                                          │
+│   pull requests    63 opened  ·  39 merged                      │
 │   upstream         27 merged across 7 external repositories     │
-│   lines shipped    +101,375  /  -7,065  across 1,010 files      │
+│   lines shipped    +112,054  /  -7,066  across 1,043 files      │
 │   issues           20 filed                                     │
-│   languages        TypeScript 47%  ·  Rust 27%  ·  Python 18%   │
+│   languages        TypeScript 48%  ·  Rust 26%  ·  Python 18%   │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -149,6 +149,6 @@ Windows `securityContext` compliance rules to **regolibrary**.
 
 <br><br>
 
-<sub><!--STAMP-->last synced 11 Oct 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
+<sub><!--STAMP-->last synced 12 Oct 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
 
 </div>
