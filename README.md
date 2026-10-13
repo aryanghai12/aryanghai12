@@ -27,11 +27,11 @@ security tooling.
 │                                                                 │
 │   active           3 years, 2 months, since August 2023         │
 │   repositories     32 public  ·  12 authored  ·  20 forks       │
-│   commits          374                                          │
-│   pull requests    63 opened  ·  39 merged                      │
-│   upstream         27 merged across 7 external repositories     │
-│   lines shipped    +112,054  /  -7,066  across 1,043 files      │
-│   issues           20 filed                                     │
+│   commits          375                                          │
+│   pull requests    65 opened  ·  40 merged                      │
+│   upstream         28 merged across 7 external repositories     │
+│   lines shipped    +112,302  /  -7,080  across 1,047 files      │
+│   issues           22 filed                                     │
 │   languages        TypeScript 48%  ·  Rust 26%  ·  Python 18%   │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
@@ -85,7 +85,7 @@ Merged and shipped in repositories I do not own, where the standards are not min
 <!--START:upstream-->
 | Where | Repository | Merged | Lines |
 | :-- | :-- | --: | :-- |
-| **Kubescape · CNCF incubating · Kubernetes security** | [`kubescape`](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+author%3Aaryanghai12) | 17 | `+8,878` `-696` |
+| **Kubescape · CNCF incubating · Kubernetes security** | [`kubescape`](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+author%3Aaryanghai12) | 18 | `+9,126` `-710` |
 |  | [`node-agent`](https://github.com/kubescape/node-agent/pulls?q=is%3Apr+author%3Aaryanghai12) | 3 | `+1,252` `-78` |
 |  | [`regolibrary`](https://github.com/kubescape/regolibrary/pulls?q=is%3Apr+author%3Aaryanghai12) | 1 | `+1,317` `-1` |
 | **OWASP · Open Worldwide Application Security Project** | [`Nest`](https://github.com/OWASP/Nest/pulls?q=is%3Apr+author%3Aaryanghai12) | 2 | `+182` `-16` |
@@ -149,6 +149,6 @@ Windows `securityContext` compliance rules to **regolibrary**.
 
 <br><br>
 
-<sub><!--STAMP-->last synced 12 Oct 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
+<sub><!--STAMP-->last synced 13 Oct 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
 
 </div>
