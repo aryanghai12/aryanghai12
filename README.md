@@ -27,10 +27,10 @@ security tooling.
 │                                                                 │
 │   active           3 years, 2 months, since August 2023         │
 │   repositories     32 public  ·  12 authored  ·  20 forks       │
-│   commits          461                                          │
-│   pull requests    68 opened  ·  43 merged                      │
-│   upstream         31 merged across 7 external repositories     │
-│   lines shipped    +113,361  /  -7,136  across 1,074 files      │
+│   commits          462                                          │
+│   pull requests    68 opened  ·  44 merged                      │
+│   upstream         32 merged across 7 external repositories     │
+│   lines shipped    +114,155  /  -7,278  across 1,097 files      │
 │   issues           24 filed                                     │
 │   languages        TypeScript 48%  ·  Rust 26%  ·  Python 18%   │
 │                                                                 │
@@ -85,7 +85,7 @@ Merged and shipped in repositories I do not own, where the standards are not min
 <!--START:upstream-->
 | Where | Repository | Merged | Lines |
 | :-- | :-- | --: | :-- |
-| **Kubescape · CNCF incubating · Kubernetes security** | [`kubescape`](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+author%3Aaryanghai12) | 21 | `+10,185` `-766` |
+| **Kubescape · CNCF incubating · Kubernetes security** | [`kubescape`](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+author%3Aaryanghai12) | 22 | `+10,979` `-908` |
 |  | [`node-agent`](https://github.com/kubescape/node-agent/pulls?q=is%3Apr+author%3Aaryanghai12) | 3 | `+1,252` `-78` |
 |  | [`regolibrary`](https://github.com/kubescape/regolibrary/pulls?q=is%3Apr+author%3Aaryanghai12) | 1 | `+1,317` `-1` |
 | **OWASP · Open Worldwide Application Security Project** | [`Nest`](https://github.com/OWASP/Nest/pulls?q=is%3Apr+author%3Aaryanghai12) | 2 | `+182` `-16` |
@@ -149,6 +149,6 @@ Windows `securityContext` compliance rules to **regolibrary**.
 
 <br><br>
 
-<sub><!--STAMP-->last synced 22 Oct 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
+<sub><!--STAMP-->last synced 23 Oct 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
 
 </div>
