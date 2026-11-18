@@ -26,13 +26,13 @@ security tooling.
 ┌─ aryanghai12@github ────────────────────────────────────────────┐
 │                                                                 │
 │   active           3 years, 3 months, since August 2023         │
-│   repositories     33 public  ·  13 authored  ·  20 forks       │
-│   commits          570                                          │
-│   pull requests    74 opened  ·  50 merged                      │
+│   repositories     34 public  ·  14 authored  ·  20 forks       │
+│   commits          573                                          │
+│   pull requests    75 opened  ·  51 merged                      │
 │   upstream         34 merged across 7 external repositories     │
-│   lines shipped    +117,779  /  -10,673  across 1,212 files     │
+│   lines shipped    +127,963  /  -10,922  across 1,296 files     │
 │   issues           24 filed                                     │
-│   languages        TypeScript 48%  ·  Rust 24%  ·  Python 21%   │
+│   languages        TypeScript 46%  ·  Python 24%  ·  Rust 23%   │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -149,6 +149,6 @@ Windows `securityContext` compliance rules to **regolibrary**.
 
 <br><br>
 
-<sub><!--STAMP-->last synced 17 Nov 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
+<sub><!--STAMP-->last synced 18 Nov 2026<!--/STAMP--> &nbsp;·&nbsp; open to Software Engineering internships</sub>
 
 </div>
